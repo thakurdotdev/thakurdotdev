@@ -7,7 +7,7 @@ A Learning Web Developer
 I am a learning web developer and currently learning java script
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [www.pankaj.tech](http://www)
+*   🖥️  See my portfolio at [www.pankaj.tech](https://www)
 *   ✉️  You can contact me at [pankajktech@yahoo.com](mailto:pankajktech@yahoo.com)
 *   🧠  I'm learning Javascript
 *   🤝  I'm open to collaborating on web development projects<p align="left">
