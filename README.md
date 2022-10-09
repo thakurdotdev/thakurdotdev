@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pankaj</h1>
+<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">A Passionate Frontend Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajktech&label=Profile%20views&color=0e75b6&style=flat" alt="pankajktech" /> </p>
