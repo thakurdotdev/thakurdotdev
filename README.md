@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankajktech](https://github.com/pankajktech)
 
-- 📝 I regularly write articles on [Blog Website](https://www.pankaj.tech)
+- 📝 I regularly write articles on [Blog Website](https://www.pankajktech.blogspot.com)
 
 - 📫 How to reach me **pankajktech@yahoo.com**
 
