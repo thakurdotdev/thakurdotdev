@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajktech" alt="pankajktech" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://pankajktech.github.io/Portf/)
+- 🔭 I’m currently working on [Portfolio Website](https://pankajktech.github.io/Portfolio/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankajktech](https://github.com/pankajktech)
 
