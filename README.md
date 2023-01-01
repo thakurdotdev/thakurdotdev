@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">A Passionate Frontend Web Developer from India</h3>
+<h3 align="center">A Passionate Frontend Web Developer and Coder Who Love to Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajktech&label=Profile%20views&color=0e75b6&style=flat" alt="pankajktech" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankajktech](https://github.com/pankajktech)
 
-- 📝 I regularly write tech related articles on [Blog Website](https://www.pankajktech.blogspot.com)
+- 📝 I regularly write tech related articles on [Blog Website](https://pankajktech.blogspot.com)
 
 - 📫 How to reach me **pankajktech@yahoo.com**
 
