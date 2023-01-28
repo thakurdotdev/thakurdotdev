@@ -2,7 +2,8 @@
 <h3 align="center">A Passionate Frontend Web Developer and Coder Who Love to Code</h3>
 
 # 💫 About Me:
-I am Working on Personal Portfolio and Web Development Projects<br>I Love to Code 
+
+<h3>I am Working on Personal Portfolio and Web Development Projects</h3>
 
 
 ## 🌐 Socials:
