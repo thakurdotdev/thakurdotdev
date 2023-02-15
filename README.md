@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">A Passionate Frontend Web Developer and Coder Who Love to Code</h3> -->
 
-![Screenshot from 2023-02-15 09-41-28](https://user-images.githubusercontent.com/89023470/218927761-7cc80029-b91b-4e33-9d61-f4efc0c47fe1.png)>
+![Screenshot from 2023-02-15 09-41-28](https://user-images.githubusercontent.com/89023470/218927761-7cc80029-b91b-4e33-9d61-f4efc0c47fe1.png)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pankajkthakuroff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pankajktech) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pankajthakuroff) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techypkt) 
