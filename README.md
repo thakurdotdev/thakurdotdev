@@ -2,13 +2,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h2 align="center">A Passionate Frontend Web Developer and Coder Who Love to Code</h2>
 
-<!-- ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pankajkthakuroff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pankajktech) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pankajthakuroff) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techypkt)  -->
-
-
-
-
-
  <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%" />
  
 - 🔭 I’m currently working on **Frontend & Backend**
@@ -50,12 +43,6 @@
   
 </div>
  <br/>
-<!--   <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
- </div> -->
-  
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
@@ -68,7 +55,6 @@
   
   
 ### 📊 Statistics  
-<!-- github status  -->
 <div>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pankajktech&theme=2077" width="46%" />
   <br/>
@@ -77,22 +63,3 @@
   <br/>
 <img align="right" src="https://streak-stats.demolab.com/?user=pankajktech&theme=dark&hide_border=true&theme=react" width="46%" />
 </div>
-<br/>
-<br/>
-<div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pankajktech&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pankajktech&theme=2077" width="45%" />
-</div>
-<br/>
-<div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajktech&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
-                                                                                                                             
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pankaj Kumar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=pankajktech&theme=react-dark&hide_border=true" /></a>    
-  
-  <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=pankajktech&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />
-
-
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
----
