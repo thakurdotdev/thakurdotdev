@@ -5,9 +5,9 @@
  
 - 🔭 I’m currently working on **Frontend & Backend**
 
-- 👯 Connect me on **<a href="https://www.linkedin.com/in/pankajktech/" target="_blank">LinkedIn</a> & <a href="https://github.com/pankajktech" target="_blank">GitHub</a>**
+- 👯 Connect me on **<a href="https://www.linkedin.com/in/pankajktech" target="_blank">LinkedIn</a> & <a href="https://github.com/pankajktech" target="_blank">GitHub</a>**
 
-- 📫 My Portfolio **<a href="https://pankajktech.me/" target="_blank">Portfolio</a>**
+- 📫 My Portfolio **<a href="https://pankajthakur.netlify.app" target="_blank">Portfolio</a>**
 
 - 📫 Reach me on **<a href="https://linkfree.eddiehub.io/pankajktech" target="_blank">Linkfree</a>**
 
