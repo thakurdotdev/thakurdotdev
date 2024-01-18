@@ -27,5 +27,5 @@
   
 <h2 align="center"> 📊 Statistics  </h2>
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=pankajktech&theme=dark&hide_border=true&theme=react" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=pankajktech&theme=dark&hide_border=true&theme=react" width="60%" />
 </div>
