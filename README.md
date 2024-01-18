@@ -1,37 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h2 align="center">A Passionate MERN Stack Web Developer and Coder Who Love to Code, Learn and Implement</h2>
-
- <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%" />
- 
-- 🔭 I’m currently working on **Frontend & Backend**
-
-- 👯 Connect me on **<a href="https://www.linkedin.com/in/pankajktech" target="_blank">LinkedIn</a> & <a href="https://github.com/pankajktech" target="_blank">GitHub</a>**
-
-- 📫 My Portfolio **<a href="https://thakur.vercel.app" target="_blank">Portfolio</a>**
-
-- 📫 Reach me on **<a href="https://linkfree.eddiehub.io/pankajktech" target="_blank">Linkfree</a>**
-
-
 <br/>
-<br/>
-<br/>
-<h2>🥇 Technical Skills:  </h2>  
+<h2 align="center">🥇 Technical Skills:  </h2>  
 
  <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=nextdotjs&logoColor=#000000"  align="center" alt="nextjs" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<!-- <img src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" align="center" alt="python"> -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<!-- <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' /> -->
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
-
-<br/>
-<br/>
- <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
 </div>
  <br/>
   <div align="center"><h3 align="center">Tools</h3> 
@@ -45,7 +25,7 @@
   
   
   
-### 📊 Statistics  
-<div>
-<img align="center" src="https://streak-stats.demolab.com/?user=pankajktech&theme=dark&hide_border=true&theme=react" width="46%" />
+<h2 align="center"> 📊 Statistics  </h2>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=pankajktech&theme=dark&hide_border=true&theme=react" width="80%" />
 </div>
