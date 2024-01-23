@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
-<h2 align="center">A Passionate MERN Stack Web Developer and Coder Who Love to Code, Learn and Implement</h2>
+<h2 align="center">A Passionate Full Stack Web Developer and Coder Who Love to Code, Learn and Implement</h2>
 <br/>
 <h2 align="center">🥇 Technical Skills:  </h2>  
 
@@ -9,6 +9,8 @@
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+  <br/>
+  <br/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
@@ -27,5 +29,5 @@
   
 <h2 align="center"> 📊 Statistics  </h2>
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=pankajktech&theme=dark&hide_border=true&theme=react" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=pankajktech&theme=dark&hide_border=true&theme=react" width="50%" />
 </div>
