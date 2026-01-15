@@ -1,5 +1,3 @@
-# Pankaj Thakur
-
 Software engineer building SaaS platforms, internal tools, and developer infrastructure.
 
 Currently building **GasOps** — a real-world LPG gas agency management system.
