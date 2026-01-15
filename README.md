@@ -1,18 +1,43 @@
-Hi, I'm Pankaj Thakur
+# Pankaj Thakur
 
-Software dev by profession.  
-Full-time debugger. Part-time philosopher.  
-Just out here dodging meetings and merge conflicts.
+Software engineer building SaaS platforms, internal tools, and developer infrastructure.
 
-What I do:
-- Build stuff with React, React Native, Node.js
-- Break stuff with TypeScript (on purpose, mostly)
-- Talk to servers via WebSockets like it’s therapy
-- Pretend to understand Docker
-- Occasionally tame WebRTC demons
+Currently building **GasOps** — a real-world LPG gas agency management system.
 
-Current status:
-Recently graduated from "intern who Googles everything"  
-to "dev who still Googles everything (but faster)."
+---
 
-If it works, it ships. If it doesn’t... we’ll circle back (aka ignore it for now).
+## What I work on
+
+- Full-stack web and mobile apps  
+- Real-time systems (WebSockets, queues, workers)  
+- Multi-tenant SaaS backends  
+- Deployment and hosting platforms  
+
+---
+
+## Tech
+
+React, Next.js, React Native  
+Node.js, Bun, Express  
+PostgreSQL, Drizzle  
+Docker, Nginx, Linux  
+
+---
+
+## Selected projects
+
+**GasOps**  
+SaaS for LPG gas agencies: delivery tracking, OTP/photo proof, payments, operations.
+
+**Thakur Deploy**  
+Self-hosted Vercel/Heroku-like platform with build workers, live logs, webhooks, and dynamic subdomains.
+
+**Enterprise Workflow Engine**  
+Multi-step approvals, role-based routing, SLAs, and load balancing.
+
+**GRC & Risk Platform**  
+Risk scoring, mitigations, third-party and product risk, approval workflows.
+
+---
+
+I build systems that are meant to be used.
