@@ -1,6 +1,6 @@
 Software engineer building SaaS platforms, internal tools, and developer infrastructure.
 
-Currently building **GasOps** — a real-world LPG gas agency management system.
+Currently building **GasFlow** — a real-world LPG gas agency management system.
 
 ---
 
@@ -24,7 +24,7 @@ Docker, Nginx, Linux
 
 ## Selected projects
 
-**GasOps**  
+**GasFlow**  
 SaaS for LPG gas agencies: delivery tracking, OTP/photo proof, payments, operations.
 
 **Thakur Deploy**  
